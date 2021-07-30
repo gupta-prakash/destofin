@@ -1,0 +1,12 @@
+.radioContainer{
+    display: inline-block;
+}
+
+.styleLabel{
+    font-size: 14px;
+    font-weight: 400;
+    margin-right: 0px;
+    color: white;
+    cursor: pointer;
+    letter-spacing: -0.2px;
+}

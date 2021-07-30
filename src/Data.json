@@ -1,0 +1,545 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "categories": "Universities",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Chitkara University, Rajpura, Punjab",
+                    "latitude":30.516459,
+                    "longitude": 76.659210
+                },
+                {
+                    "id":2,
+                    "categories": "Chandra Shekhar Azad University of Agriculture and Technology, Kanpur, Uttar Pradesh",
+                    "latitude":26.491150,
+                    "longitude": 80.307251
+                },
+                {
+                    "id":3,
+                    "categories": "Palamuru University, Mahbubnagar, Telangana",
+                    "latitude":16.720739,
+                    "longitude": 77.981720
+                },
+                {
+                    "id":4,
+                    "categories": "NMIMS University Main Campus, Juhu, Mumbai, Maharashtra",
+                    "latitude":19.103088,
+                    "longitude": 72.836349
+                },
+                {
+                    "id":5,
+                    "categories": "Pune University, Ganeshkhind, Pune, Maharashtra",
+                    "latitude":18.554499,
+                    "longitude": 73.825729
+                },
+                {
+                    "id":6,
+                    "categories": "Department of Management Studies, Katol, Maharashtra",
+                    "latitude":21.275879,
+                    "longitude": 78.581512
+                },
+                {
+                    "id":7,
+                    "categories": "Shri Lal Bahadur Shastri Rashtriya Sanskrit Vidyapeetha, New Delhi, Delhi",
+                    "latitude":28.540707,
+                    "longitude": 77.182274
+                },
+                {
+                    "id":8,
+                    "categories": "Banaras Hindu University Campus, Varanasi, Uttar Pradesh",
+                    "latitude":25.267878,
+                    "longitude": 82.990494
+                },
+                {
+                    "id":9,
+                    "categories": "Bharathiyar University, Coimbatore, Tamil Nadu",
+                    "latitude":11.039022,
+                    "longitude": 76.876419
+                },
+                {
+                    "id":10,
+                    "categories": "ICFAI, Dehradun, Uttarakhand",
+                    "latitude":30.336212,
+                    "longitude": 78.053246
+                },
+                {
+                    "id":11,
+                    "categories": "Applied Optics and Photonics, University of Calcutta, Kolkata",
+                    "latitude":22.567587,
+                    "longitude": 88.415398
+                },
+                {
+                    "id":12,
+                    "categories": "Medicaps Institue of Technology and Management, Pigdambar, Madhya Pradesh",
+                    "latitude":22.620186,
+                    "longitude": 75.803574
+                },
+                {
+                    "id":13,
+                    "categories": "Jadavpur University, Jadavpur, Kolkata, West Bengal",
+                    "latitude":22.499313,
+                    "longitude": 88.371849
+                },
+                {
+                    "id":14,
+                    "categories": "DNR University Campus, Bhimavaram, Andhra Pradesh",
+                    "latitude":16.536396,
+                    "longitude": 81.518837
+                },
+                {
+                    "id":15,
+                    "categories": "Heritage Institute of Technology, Mundapara, West Bengal",
+                    "latitude":22.516525,
+                    "longitude": 88.418213
+                },
+                {
+                    "id":16,
+                    "categories": "Kohinoor Technical Institute,Priyadarshini Society, Dadar, Mumbai, Maharashtra",
+                    "latitude":19.016663,
+                    "longitude": 72.840195
+                },
+                {
+                    "id":17,
+                    "categories": "Panjab University, Chandigarh",
+                    "latitude":30.760618,
+                    "longitude": 76.765388
+                },
+                {
+                    "id":18,
+                    "categories": "Jamia Millia Islamia University, New Delhi",
+                    "latitude":28.561657,
+                    "longitude": 77.281258
+                },
+                {
+                    "id":19,
+                    "categories": "Andhra University, Visakhapatnam, Andhra Pradesh",
+                    "latitude":17.729830,
+                    "longitude": 83.321495
+                },
+                {
+                    "id":20,
+                    "categories": "Madurai Kamaraj University, Madurai, Tamil Nadu",
+                    "latitude":9.941418,
+                    "longitude": 78.008896
+                },
+                {
+                    "id":21,
+                    "categories": "Mahatma Gandhi University, Paipad, Kerala",
+                    "latitude":9.424657,
+                    "longitude": 76.576714
+                },
+                {
+                    "id":22,
+                    "categories": "University of Mumbai, Mumbai",
+                    "latitude":19.073212,
+                    "longitude": 72.854195
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "categories": "National Parks",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Neora Valley National Park, Darjeeling, West Bengal",
+                    "latitude":27.085251,
+                    "longitude": 88.700928
+                },
+                {
+                    "id":2,
+                    "categories": "Manas National Park, Gobardhana, Assam",
+                    "latitude":26.659424,
+                    "longitude": 91.001129
+                },
+                {
+                    "id":3,
+                    "categories": "Neyyar Wildlife Sanctuary, Kallikkad, Kerala",
+                    "latitude":8.534849,
+                    "longitude": 77.150116
+                },
+                {
+                    "id":4,
+                    "categories": "Dasuya Forest Division, Dasuya, Hoshiarpur, Punjab",
+                    "latitude":31.856564,
+                    "longitude": 75.875702
+                },
+                {
+                    "id":5,
+                    "categories": "Keibul Lamjao National Park, Bishnupur, Manipur",
+                    "latitude":24.567108,
+                    "longitude": 93.836975
+                },
+                {
+                    "id":6,
+                    "categories": "New Amarambalam Wildlife Sanctuary, Kavalamukkatta, Kerala",
+                    "latitude":11.344064,
+                    "longitude": 76.409912
+                },
+                {
+                    "id":7,
+                    "categories": "Tungareshwar National Park, Usgaon, Maharashtra",
+                    "latitude":19.403315,
+                    "longitude": 72.957870
+                },
+                {
+                    "id":8,
+                    "categories": "Chandoli National Park, Kalgaon, Maharashtra",
+                    "latitude":17.143744,
+                    "longitude": 73.857307
+                },
+                {
+                    "id":9,
+                    "categories": "Koyna Wildlife Sanctuary, Koyna, Maharashtra",
+                    "latitude":17.781902,
+                    "longitude": 73.700935
+                },
+                {
+                    "id":10,
+                    "categories": "Jim Corbett National Park, Ramnagar, Uttarakhand",
+                    "latitude":29.548599,
+                    "longitude": 78.935303
+                },
+                {
+                    "id":11,
+                    "categories": "Pench National Park, Seoni, Madhya Pradesh",
+                    "latitude":22.016617,
+                    "longitude": 79.829674
+                },
+                {
+                    "id":12,
+                    "categories": "Bandipur National Park, Karnataka",
+                    "latitude":11.666400,
+                    "longitude": 76.629189
+                },
+                {
+                    "id":13,
+                    "categories": "Dibru Saikhowa National Park, Assam",
+                    "latitude":27.669033,
+                    "longitude": 95.362549
+                },
+                {
+                    "id":14,
+                    "categories": "Kaziranga National Park, Assam",
+                    "latitude":26.575863,
+                    "longitude": 93.167046
+                },
+                {
+                    "id":15,
+                    "categories": "Shettihalli Wildlife Sanctuary, Karnataka",
+                    "latitude":13.894744,
+                    "longitude": 75.389214
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "categories": "Lakes",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Parashar Lake, Himachal Pradesh",
+                    "latitude":31.754366,
+                    "longitude": 77.101143
+                },
+                {
+                    "id":2,
+                    "categories": "Hussain Sagar, Hyderabad, Telangan",
+                    "latitude":17.423880,
+                    "longitude": 78.473824
+                },
+                {
+                    "id":3,
+                    "categories": "Chilika Lake, Odisha",
+                    "latitude":19.775105,
+                    "longitude": 85.418015
+                },
+                {
+                    "id":4,
+                    "categories": "Vihar Lake, Mumbai, Maharashtra",
+                    "latitude":19.154049,
+                    "longitude": 72.907669
+                },
+                {
+                    "id":5,
+                    "categories": "Pedda Cheruvu, Hyderabad, Telangana",
+                    "latitude":17.421389,
+                    "longitude": 78.554550
+                },
+                {
+                    "id":6,
+                    "categories": "Satiguda Dam, Malkangiri Forest Range, Odisha",
+                    "latitude":18.379616,
+                    "longitude": 81.940926
+                },
+                {
+                    "id":7,
+                    "categories": "Beohar Sarovar, Gandhigram, Jabalpur, Madhya Pradesh",
+                    "latitude":23.362585,
+                    "longitude": 80.019180
+                },
+                {
+                    "id":8,
+                    "categories": "Belcha Lake, Madhya Pradesh",
+                    "latitude":22.488848,
+                    "longitude": 75.708374
+                },
+                {
+                    "id":9,
+                    "categories": "Valayathur Lake, Kaniyanur, Tamil Nadu",
+                    "latitude":12.765180,
+                    "longitude": 79.325432
+                },
+                {
+                    "id":10,
+                    "categories": "Pimpalgaon Joga Dam, Maharashtra",
+                    "latitude":19.329615,
+                    "longitude": 73.836021
+                },
+                {
+                    "id":11,
+                    "categories": "Banganga Tank, Mumbai, Maharashtra",
+                    "latitude":18.945480,
+                    "longitude": 72.793678
+                },
+                {
+                    "id":12,
+                    "categories": "Bellandur Lake",
+                    "latitude":12.937562,
+                    "longitude": 77.670097
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "categories": "Airports",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Chandigarh International Airport, Chandigarh, Punjab",
+                    "latitude":30.667767,
+                    "longitude": 76.786232
+                },
+                {
+                    "id":2,
+                    "categories": "Diu Airport, Diu, Daman and Diu",
+                    "latitude":20.714273,
+                    "longitude": 70.921616
+                },
+                {
+                    "id":3,
+                    "categories": "Bhubaneswar Airport, Aerodrome Area, Bhubaneswar, Odisha",
+                    "latitude":20.254713,
+                    "longitude": 85.816574
+                },
+                {
+                    "id":4,
+                    "categories": "Kempegowda International Airport (BLR), Karnataka",
+                    "latitude":13.199379,
+                    "longitude": 77.710136
+                },
+                {
+                    "id":5,
+                    "categories": "Biju Patnaik International Airport (BBI), Bhubaneshwar, Odisha",
+                    "latitude":20.254780,
+                    "longitude": 85.816521
+                },
+                {
+                    "id":6,
+                    "categories": "Visakhapatnam Airport, Andhra Pradesh",
+                    "latitude":17.728647,
+                    "longitude": 83.223549
+                },
+                {
+                    "id":7,
+                    "categories": "Indira Gandhi International Airport (DEL), New Delhi, Delhi",
+                    "latitude":28.556160,
+                    "longitude": 77.100281
+                },
+                {
+                    "id":8,
+                    "categories": "Solapur Airport (SSE), Solapur, Maharashtra",
+                    "latitude":17.625862,
+                    "longitude": 75.930717
+                },
+                {
+                    "id":9,
+                    "categories": "Biju Patnaik International Airport (BBI), Bhubaneshwar, Odisha",
+                    "latitude":20.256399,
+                    "longitude": 85.815758
+                },
+                {
+                    "id":10,
+                    "categories": "Karad Airport, Varunji, Maharashtra",
+                    "latitude":17.286358,
+                    "longitude": 74.157951
+                },
+                {
+                    "id":11,
+                    "categories": "Chhatrapati Shivaji International Airport (BOM), Vile Parle East, Mumbai",
+                    "latitude":19.097403,
+                    "longitude": 72.874245
+                },
+                {
+                    "id":12,
+                    "categories": "Raxaul Airport, Ekderwa, Bihar",
+                    "latitude":26.996279,
+                    "longitude": 84.820374
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "categories": "Historical Sites",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Amber Fort, Amer, Rajastan",
+                    "latitude":26.985901,
+                    "longitude": 75.850700
+                },
+                {
+                    "id":2,
+                    "categories": "Bhimbetka, Raisen District, Madhya Pradesh",
+                    "latitude":22.957390,
+                    "longitude": 77.625275
+                },
+                {
+                    "id":3,
+                    "categories": "Bagru Fort, Bagru, Rajasthan",
+                    "latitude":26.809330,
+                    "longitude": 75.540527
+                },
+                {
+                    "id":4,
+                    "categories": "Kalinjar Fort, Banda, Uttar Pradesh",
+                    "latitude":25.489504,
+                    "longitude": 80.330116
+                },
+                {
+                    "id":5,
+                    "categories": "Neemrana, Rajasthan",
+                    "latitude":27.988890,
+                    "longitude": 76.388336
+                },
+                {
+                    "id":6,
+                    "categories": "Golconda Fort, Hyderabad, Telangana",
+                    "latitude":17.382330,
+                    "longitude": 78.401604
+                },
+                {
+                    "id":7,
+                    "categories": "Bahu Fort, Jammu, Jammu and Kashmir",
+                    "latitude":32.726303,
+                    "longitude": 74.880135
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "categories": "Monuments",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "The India Gate, New Delhi",
+                    "latitude":28.612894,
+                    "longitude": 77.229446
+                },
+                {
+                    "id":2,
+                    "categories": "Gateway Of India Mumbai, Maharashtra",
+                    "latitude":18.922064,
+                    "longitude": 72.834641
+                },
+                {
+                    "id":3,
+                    "categories": "Nehru Putla Statue, Sindhi Colony, Gondia, Maharashtra",
+                    "latitude":21.458187,
+                    "longitude": 80.196198
+                },
+                {
+                    "id":4,
+                    "categories": "Charminar, Hyderabad, Telangana",
+                    "latitude":17.361431,
+                    "longitude": 78.474533
+                }
+            ]
+
+        },
+        {
+            "id": 7,
+            "categories": "Rivers",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Subansiri River, Assam",
+                    "latitude":27.730566,
+                    "longitude": 94.329559
+                },
+                {
+                    "id":2,
+                    "categories": "Godavari River",
+                    "latitude":16.708548,
+                    "longitude": 82.118683
+                },
+                {
+                    "id":3,
+                    "categories": "Aydar Rover",
+                    "latitude":13.014031,
+                    "longitude": 80.257919
+                },
+                {
+                    "id":4,
+                    "categories": "Cauvery River",
+                    "latitude":12.528591,
+                    "longitude": 75.993629
+                },
+                {
+                    "id":5,
+                    "categories": "Krishna River",
+                    "latitude":15.754239,
+                    "longitude": 80.897270
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "categories": "Mountains",
+            "places": [
+                {
+                    "id":1,
+                    "categories": "Mount Yunum, Himchal Pradesh",
+                    "latitude":32.818874,
+                    "longitude": 77.404518
+                },
+                {
+                    "id":2,
+                    "categories": "Kalsubai Peak, Indore, Maharashtra",
+                    "latitude":19.601229,
+                    "longitude": 73.709152
+                },
+                {
+                    "id":3,
+                    "categories": "Dhuma Dongar Mount, Sangamner, Maharashtra",
+                    "latitude":19.588379,
+                    "longitude": 74.099884
+                },
+                {
+                    "id":4,
+                    "categories": "Ladakh Range",
+                    "latitude":34.000000,
+                    "longitude": 78.000000
+                },
+                {
+                    "id":5,
+                    "categories": "Mount Abu, Rajasthan",
+                    "latitude":24.531445,
+                    "longitude": 72.733360
+                }
+            ]
+        }
+    ]
+}
